@@ -10,9 +10,13 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@terrylinla/react-native-sketch-canvas": "^0.8.0",
     "opentok-react-native": "^0.17.0",
     "react": "17.0.1",
-    "react-native": "0.64.1"
+    "react-native": "0.64.1",
+    "react-native-paint": "^1.1.0",
+    "react-native-safe-area-context": "^3.3.2",
+    "react-native-video": "^5.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
